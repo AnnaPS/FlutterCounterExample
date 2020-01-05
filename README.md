@@ -9,8 +9,8 @@ This app is the counter app flutter example with two more options:
 - Remove
 
 ## Example
-![1](https://user-images.githubusercontent.com/13244085/71783648-0b7fd080-2fea-11ea-94ba-ee984b1b0984.png")
-![2]("https://user-images.githubusercontent.com/13244085/71783656-39fdab80-2fea-11ea-8924-4519cfd7de2c.png")
+![1](https://user-images.githubusercontent.com/13244085/71783648-0b7fd080-2fea-11ea-94ba-ee984b1b0984.JPG")
+![2]("https://user-images.githubusercontent.com/13244085/71783656-39fdab80-2fea-11ea-8924-4519cfd7de2c.JPG")
 
 ## Getting Started
 
