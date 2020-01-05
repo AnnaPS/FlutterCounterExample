@@ -8,6 +8,12 @@ This app is the counter app flutter example with two more options:
 - Restart
 - Remove
 
+## Example
+
+<img width="352" alt="Captura de pantalla 2020-01-05 a las 18 31 21" src="https://user-images.githubusercontent.com/13244085/71783648-0b7fd080-2fea-11ea-94ba-ee984b1b0984.png">
+
+<img width="341" alt="Captura de pantalla 2020-01-05 a las 18 35 42" src="https://user-images.githubusercontent.com/13244085/71783656-39fdab80-2fea-11ea-8924-4519cfd7de2c.png">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
