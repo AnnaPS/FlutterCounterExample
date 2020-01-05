@@ -1,9 +1,17 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # FlutterCounterExample
 =======
 # contador
+=======
+# Counter 
+>>>>>>> Update README.md
 
 A new Flutter application.
+
+This app is the counter app flutter example with two more options:
+-[Restart]
+-[Remove]
 
 ## Getting Started
 
