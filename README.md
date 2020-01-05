@@ -3,8 +3,8 @@
 A new Flutter application.
 
 This app is the counter app flutter example with two more options:
--[Restart]
--[Remove]
+- [Restart]
+- [Remove]
 
 ## Getting Started
 
